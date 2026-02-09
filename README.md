@@ -1,4 +1,5 @@
-# 👋 Hi! I’m Mariana, a data analyst with experience in Power BI, SQL, and Python.
+# 👋 Hi There!
+I’m Mariana, a data analyst with experience in Power BI, SQL, and Python.
 I specialize in transforming data into actionable insights, designing interactive dashboards, and analyzing information to support business decision-making.
 
 ## 🛠 Skills
